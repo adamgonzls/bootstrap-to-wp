@@ -14,6 +14,6 @@ $(function(){
 			//  move the background
 			$bgobj.css({backgroundPosition: coords});
 
-		});//
+		});//end window scroll
 	});
 });
